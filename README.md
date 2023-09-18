@@ -60,9 +60,21 @@ jason哥最近迷上了九宫格数独，所谓九宫格数独是把一个9x9的
 
 - 总结本次作业，遇到的难点以及如何解决、第一次结对编程的体验等等，两位同学分别总结。
 
+# 项目结构
+
+    .
+    ├── README.md
+    ├── app.py
+    ├── sudoku_generator.py
+    ├── static
+    │   ├── style.css
+    ├── img
+    └── templates
+        └── index.html
+
 # 项目部署
 
-**[在线预览]()**
+**[在线预览](http://sudoku.andylive.cn/)**
 
 # 应用需求分析
 
@@ -160,10 +172,9 @@ def generate_sudoku():
 
 # GitHub仓库地址
 
-> [GitHub仓库]()
+> [GitHub仓库](https://github.com/Andy-boy123/sudoku)
 
 # 照片
-
 
 
 # 总结
@@ -171,4 +182,3 @@ def generate_sudoku():
 ## 112100821陈力恒总结
 
 ## 102101325陈佳诚总结
-`
